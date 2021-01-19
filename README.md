@@ -25,3 +25,11 @@ want
 
 SO that user can mark their favorite food item they found in the
 app
+
+
+
+How to use the app?
+=>Click on the next button to get the next item,
+=>Click on add to favorites button to add your favourite item 
+=>Click on the like button at the bottom of the page and you will be taken to a new activity containing all your favourite items. Click on them to get back to the main page.
+=> Search your favourite item from the tool bar
