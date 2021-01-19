@@ -222,15 +222,13 @@ public class MainActivity extends AppCompatActivity {
                             .placeholder(R.drawable.ic_undraw_hamburger_8ge6)
                             .into(i1);
                 } catch (JSONException e) {
-                    Toast errorToast= Toast.makeText(MainActivity.this, e.getMessage(),Toast.LENGTH_LONG);
-                    errorToast.show();
+
                 }
             }
         }, new Response.ErrorListener() {
             @Override
             public void onErrorResponse(VolleyError error) {
-                Toast errorToast= Toast.makeText(MainActivity.this, error.getMessage(),Toast.LENGTH_LONG);
-                errorToast.show();
+                
             }
         });
 
