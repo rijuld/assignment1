@@ -1,11 +1,13 @@
 # assignment1
-Uses glide library for image retrival and many other libraries,
+
+app name :mango
 
 IMPORTANT Note for USE:
 Close the application only using the BACK button. 
 This issue will be solved as soon as possible.
 
 
+Uses glide library for image retrival and many other libraries for other purposes like array to json conversion and storing it in Shared preferences.
 The colors of the application give a comfortable feel and look for a food app.
 
 Task completed 
@@ -19,7 +21,7 @@ user opens the app.
 That is a search bar or a tab for users to find delicious food they
 want
 
-3. Keep a section to store Favourite Food
+3. Keeps a section to store Favourite Food
 
 SO that user can mark their favorite food item they found in the
 app
